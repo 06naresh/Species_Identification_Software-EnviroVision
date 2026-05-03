@@ -101,8 +101,8 @@ This project demonstrates the potential of **AI in biodiversity studies**, contr
 
 ## 👨‍💻 Authors
 
+- **T Naresh**
 - **Swasti Ranjan Biswas**  
-- **T Naresh**  
 - **Dimpy Sarkar**  
 - **K Vijay Kumar**
 
