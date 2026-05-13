@@ -48,8 +48,8 @@ This project demonstrates the potential of **AI in biodiversity studies**, contr
 | Display     | 720p    | 1080p+ |
 
 ### Software
-- **OS**: Windows 10/11 (64-bit).
-- **Backend**: Python, TensorFlow/Keras.
+- **OS**: Windows 10/11 (64-bit)
+- **Backend**: Python, TensorFlow/Keras
 - **Frontend**: Desktop application with image upload support
 - **Database (optional)**: SQLite / Firebase
 
