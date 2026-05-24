@@ -107,7 +107,7 @@ This project demonstrates the potential of **AI in biodiversity studies**, contr
 - **Dimpy Sarkar**
 
 Under the guidance of **Mr. Harsabardhan Barik (Associate Professor, CSE)**  
-Dr. B. R. Ambedkar Institute of Technology, Port Blair
+Dr. B. R. Ambedkar Institute of Technology, Port Blair. 
 
 ---
 
